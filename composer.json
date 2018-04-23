@@ -1,0 +1,23 @@
+{
+    "name": "gvs/shortlink",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "This package does the shortlink persistence and retrieval of the original link form the database. Include and integrate with your application to enable shortlinks quickly.",
+    "authors": [
+        {
+            "name": "Jaideep Vinakota",
+            "email": "jaideepvr@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "7.*"
+    },
+    "require": {
+        "gabordemooij/redbean": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gvs\\ShortLink\\": "src"
+        }
+    }
+}
