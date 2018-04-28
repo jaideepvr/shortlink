@@ -1,6 +1,6 @@
 {
     "name": "gvs/shortlink",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "library",
     "description": "This package does the shortlink persistence and retrieval of the original link form the database. Include and integrate with your application to enable shortlinks quickly.",
     "authors": [
